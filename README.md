@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Year 1 ICT Student
 ------------------
 
-I've liked coding since I was a kid, and so this is the perfect study for me. I'm looking forward to learning more.
+I've liked coding since I was a kid, and I've been hooked since. I'm excited to jump into the real world and start making cool projects!
 
 * 🌍  I'm based in Utrecht
 * ✉️  You can contact me at [tomasvanelteren@gmail.com](mailto:tomasvanelteren@gmail.com)
