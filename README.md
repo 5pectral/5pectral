@@ -10,6 +10,7 @@ I've liked coding since I was a kid, and I've been hooked since. I'm excited to 
 * ✉️  You can contact me at [tomasvanelteren@gmail.com](mailto:tomasvanelteren@gmail.com)
 * 🚀  I'm currently working on [Project Steam](http://github.com/5pectral/Project-Steam)
 * 🤝  I'm open to collaborating on Python projects
+* 🖥️  Visit my portfolio [here](5pectral.github.io)
 
 ### Skills
 
