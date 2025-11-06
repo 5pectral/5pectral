@@ -1,12 +1,29 @@
-# 👋 Hi, I'm Tomas van Elteren!
+```bash
+> fastfetch
 
-I'm a software developer with a passion for building web applications, APIs, and back-end systems. I enjoy working with Java, Spring Boot, and front-end technologies like HTML, CSS, and JavaScript.
+👤 User:      5pectral
+💼 Role:      ICT Student | Aspiring Developer
+🏢 Status:    Open to Collaborations
+📍 Location:  Utrecht
 
-### 🛠 Tech Stack:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🧠 Tech Stack:
+   ├── Languages:  Java, JS, CSS, HTML
+   ├── Frameworks: Spring Boot, JakartaEE
+   ├── Tools:      Git, Docker, IntelliJ, Linux
+   └── Learning:   ?
 
-Feel free to check out my projects and connect with me here!
+🎮 Interests:
+   ├── Valorant Esports 🎯
+   ├── Skateboarding 🛹
+   └── Electronics 💻
+
+💬 Socials:
+   ├── GitHub:     [github.com/5pectral](https://github.com/5pectral)
+   ├── LinkedIn:   [https://www.linkedin.com/in/tomas-van-elteren-1b929422b/](https://www.linkedin.com/in/tomas-van-elteren-1b929422b/)
+   └── Website:    [WIP](#)
+
+⚙️ System Info:
+   ├── OS:         Omarchy
+   ├── Terminal:   Alacritty
+   ├── Editor:     IntelliJ
+   └── Uptime:     Since 2022
